@@ -43,11 +43,11 @@ As it's only a template project, you may want to change its name. For that, you 
 
 ## Used versions
 
-- Node v4.2.2 (`node -v`)
-- Cordova 5.4.0 (`cordova -version`)
-- Bower 1.7.0 (`bower -v`)
+- Node v4.3.1 (`node -v`)
+- Cordova 6.1.1 (`cordova -version`)
+- Bower 1.7.9 (`bower -v`)
 - Angular 1.4.3 (see bower.json)
-- Ionic 1.2.0 (see bower.json)
+- Ionic 1.3.0 (see bower.json)
 
 ## Infos
 
