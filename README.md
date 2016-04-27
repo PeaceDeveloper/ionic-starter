@@ -14,7 +14,7 @@ This application (mostly) follows the [John Papa's style guide](https://github.c
 ## Getting started
 
 - install nodejs, npm, gulp, bower, cordova, ionic & sass (if not already done)
-- `git clone git@github.com:loicknuchel/ionic-starter.git` : clone this repo
+- `git clone https://github.com/PeaceDeveloper/ionic-starter.git` : clone this repo
 - `cd ionic-starter` : go to folder
 - `bower install` : install app dependencies
 - `npm install` : install build dependencies
